@@ -13,7 +13,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=emperorKez&style=flat-square&color=blue" alt=""/>
+  
+<!-- <img src="https://komarev.com/ghpvc/?username=emperorKez&style=flat-square&color=blue" alt=""/> -->
 <h1>
   hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -70,9 +71,9 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <a href="https://github.com/emperorKez">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emperorKez&layout=compact&show_icons=true&theme=prussian" />
 </a>
-<a href="https://github.com/emperorKez">
+<!--  <a href="https://github.com/emperorKez">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emperorKez&layout=compact&show_icons=true&theme=prussian" />
-</a>
+</a> -->
 <!--
 **emperorKez/emperorKez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
