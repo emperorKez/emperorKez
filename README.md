@@ -41,7 +41,8 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   </a>
   
   
-  Check  out <a href="https://emperorkez.github.io"> https://img.shields.io/badge/-My%20Portfolio-brightgreen </a>
+  
+  Check  out <a href="https://emperorkez.github.io"> <img src="https://img.shields.io/badge/-My%20Portfolio-brightgreen"  alt="My Portfolio"/> </a>
 
 
 ---
