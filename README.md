@@ -37,9 +37,11 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: <a href="mailto:mcduffde3ple@yahoo.com">
-    <img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+- :mailbox:How to reach me: <a href="mailto:mcduffde3ple@yahoo.com"><img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  
+  
+  Check  out <a href="https://emperorkez.github.io"> https://img.shields.io/badge/-My%20Portfolio-brightgreen </a>
 
 
 ---
