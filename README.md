@@ -14,7 +14,7 @@
   </a>
 </div>
   
-<!-- <img src="https://komarev.com/ghpvc/?username=emperorKez&style=flat-square&color=blue" alt=""/> -->
+ <img src="https://komarev.com/ghpvc/?username=emperorKez&style=flat-square&color=blue" alt=""/> 
 <h1>
   hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -91,9 +91,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emperorKez&theme=prussian&hide_border=true&border_radius=10)](https://git.io/streak-stats) -
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emperorKez&theme=prussian&hide_border=true&border_radius=10)](https://git.io/streak-stats) -
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emperorKez)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emperorKez&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-->
+
