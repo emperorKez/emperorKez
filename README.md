@@ -31,7 +31,7 @@
 ### :man_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. I am always trying to grow and learn something new. I loose track of time when studying other language or playing my guitar
 
-- :telescope: I’m working as a Flutter mobile developer and contributing to building mobile applications.
+- :telescope: I’m working as a Full Stack developer and contributing to building scalable applications.
 
 - :seedling: I’m currently improving my Python skills, Ansible and other DevOps tools
 
